@@ -1,11 +1,11 @@
-Welcome to the Fantasy Coinball project!
+# Welcome to the Fantasy Coinball project!
 
-There are two parts to this: a react project (in fantasy-coinball-react\) and a C# API (in FantasyCoinball.sln).
+There are two parts to this: a react project (in fantasy-coinball-react/) and a C# API (in FantasyCoinball.sln).
 
 There are two steps to get it up and running:
 1. Launch the API. You need to load FantasyCoinball.sln in Visual Studio and run the API project.
 Don't worry about the error when it launches, there's no default route, but the API is going.
-2. Start the react project - run 'npm start' from the fantasy-coinball-react\ folder.
+2. Start the react project - run 'npm start' from the fantasy-coinball-react/ folder.
 3. We haven't sorted out how to let the javascript call the API yet - so you'll need a Chrome addon like Meosif CORS running.
 
 We've come up with some tasks:
